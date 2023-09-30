@@ -4,12 +4,6 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Usage](#usage)
-- [Training Your Own Model](#training-your-own-model)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This project is a Speech Recognition System designed for Voice Command Control. It allows you to control various tasks and devices through voice commands, making human-machine interaction more intuitive and convenient.
